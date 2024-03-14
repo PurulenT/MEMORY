@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nurih\Desktop\C++\тренировка удалить\MEM\MEM\Source.cpp(142,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nurih\Desktop\C++\тренировка удалить\MEM\MEM\Source.cpp(132): warning C4715: Rekurs: значение возвращается не при всех путях выполнения
+  MEM.vcxproj -> C:\Users\nurih\Desktop\C++\тренировка удалить\MEM\x64\Debug\MEM.exe
